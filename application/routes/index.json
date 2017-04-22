@@ -1,0 +1,5 @@
+{
+  "GET /": "Index.index",
+  "GET /api": "Index.api",
+  "GET /apiTest": "Index.apiTest"
+}
